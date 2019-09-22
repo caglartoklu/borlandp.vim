@@ -17,39 +17,39 @@ This colorscheme has been especially tested with curly-braced languages such as 
 
 ## borlandp.vim on Vim on Windows 10 Editing a C File
 
-https://user-images.githubusercontent.com/2071639/65386038-2c742c80-dd3f-11e9-8b28-017aef1f2347.png
+![](https://user-images.githubusercontent.com/2071639/65386038-2c742c80-dd3f-11e9-8b28-017aef1f2347.png)
 
 
 ## borlandp.vim on Vim on Windows 10 Editing a Java File
 
-https://user-images.githubusercontent.com/2071639/65386039-2d0cc300-dd3f-11e9-80d5-1284f7d4af09.png
+![](https://user-images.githubusercontent.com/2071639/65386039-2d0cc300-dd3f-11e9-80d5-1284f7d4af09.png)
 
 Note that javadoc lines has been made less significant to focus on the code.
 
 
 ## borlandp.vim on Vim on Windows 10 Editing a Python File
 
-https://user-images.githubusercontent.com/2071639/65386041-2d0cc300-dd3f-11e9-91cc-6e9c322a93c9.png
+![](https://user-images.githubusercontent.com/2071639/65386041-2d0cc300-dd3f-11e9-91cc-6e9c322a93c9.png)
 
 
 ## borlandp.vim on Vim on Windows 10 Editing a Pascal File
 
-https://user-images.githubusercontent.com/2071639/65386117-0733ee00-dd40-11e9-8b9b-d104561ed229.png
+![](https://user-images.githubusercontent.com/2071639/65386117-0733ee00-dd40-11e9-8b9b-d104561ed229.png)
 
 
 ## borlandp.vim on Vim on Windows 10 Editing a Markdown File
 
-https://user-images.githubusercontent.com/2071639/65386040-2d0cc300-dd3f-11e9-9b10-666ac5d07e3d.png
+![](https://user-images.githubusercontent.com/2071639/65386040-2d0cc300-dd3f-11e9-9b10-666ac5d07e3d.png)
 
 
 ## borlandp.vim on Vim on [DOSBox](https://www.dosbox.com/)
 
-https://user-images.githubusercontent.com/2071639/65386037-2c742c80-dd3f-11e9-9d16-9f166b4e202e.png
+![](https://user-images.githubusercontent.com/2071639/65386037-2c742c80-dd3f-11e9-9d16-9f166b4e202e.png)
 
 
 ## Original Borland C on DOSBox for Comparison
 
-https://user-images.githubusercontent.com/2071639/65386036-2bdb9600-dd3f-11e9-8be8-9d53a8199738.png
+![](https://user-images.githubusercontent.com/2071639/65386036-2bdb9600-dd3f-11e9-8be8-9d53a8199738.png)
 
 
 ## Source Files in Screenshots
