@@ -3,7 +3,7 @@
 **borlandp.vim** is a Vim colorscheme that looks like good old [Borland](https://en.wikipedia.org/wiki/Borland) IDEs, such as Turbo Pascal and Turbo C++.
 
 Vim script page:
-https://www.vim.org/scripts/script.php?script_id=xxxx
+https://www.vim.org/scripts/script.php?script_id=5827
 
 It is based on
 [borland.vim](https://www.vim.org/scripts/script.php?script_id=92)
