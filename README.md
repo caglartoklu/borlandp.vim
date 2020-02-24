@@ -17,29 +17,29 @@ This colorscheme has been especially tested with curly-braced languages such as 
 
 ## borlandp.vim on Vim on Windows 10 Editing a C File
 
-![](https://user-images.githubusercontent.com/2071639/65386038-2c742c80-dd3f-11e9-8b28-017aef1f2347.png)
+![](https://user-images.githubusercontent.com/2071639/75171908-76719c00-573d-11ea-951d-2b839a9a877c.png)
 
 
 ## borlandp.vim on Vim on Windows 10 Editing a Java File
 
-![](https://user-images.githubusercontent.com/2071639/65386039-2d0cc300-dd3f-11e9-80d5-1284f7d4af09.png)
+![](https://user-images.githubusercontent.com/2071639/75171928-7ec9d700-573d-11ea-922a-983bd4dc87f3.png)
 
 Note that javadoc lines has been made less significant to focus on the code.
 
 
 ## borlandp.vim on Vim on Windows 10 Editing a Python File
 
-![](https://user-images.githubusercontent.com/2071639/65386041-2d0cc300-dd3f-11e9-91cc-6e9c322a93c9.png)
+![](https://user-images.githubusercontent.com/2071639/75171944-87221200-573d-11ea-8f84-a3fa53914bd5.png)
 
 
 ## borlandp.vim on Vim on Windows 10 Editing a Pascal File
 
-![](https://user-images.githubusercontent.com/2071639/65386117-0733ee00-dd40-11e9-8b9b-d104561ed229.png)
+![](https://user-images.githubusercontent.com/2071639/75171958-8c7f5c80-573d-11ea-9209-15fb7cd8a5ca.png)
 
 
 ## borlandp.vim on Vim on Windows 10 Editing a Markdown File
 
-![](https://user-images.githubusercontent.com/2071639/65386040-2d0cc300-dd3f-11e9-9b10-666ac5d07e3d.png)
+![](https://user-images.githubusercontent.com/2071639/75171972-9012e380-573d-11ea-9a3a-39f62110fc1c.png)
 
 
 ## borlandp.vim on Vim on [DOSBox](https://www.dosbox.com/)
@@ -50,6 +50,52 @@ Note that javadoc lines has been made less significant to focus on the code.
 ## Original Borland C on DOSBox for Comparison
 
 ![](https://user-images.githubusercontent.com/2071639/65386036-2bdb9600-dd3f-11e9-8be8-9d53a8199738.png)
+
+
+## Options
+
+If the original color is too blue or bright, the following options can be used to make the background darker, since the background color is customizable.
+
+To do so, one of the following code snippets should be added to VIMRC, before the following line:
+
+```viml
+colorscheme borlandp
+```
+
+
+### dark_blue background
+
+```viml
+let g:borlandp_bg = "dark_blue"
+```
+
+![](https://user-images.githubusercontent.com/2071639/75165439-72d91780-5733-11ea-9a71-d929a47221c9.jpg)
+
+### dark_gray background
+
+```viml
+let g:borlandp_bg = "dark_gray"
+```
+
+![](https://user-images.githubusercontent.com/2071639/75165492-8a180500-5733-11ea-863d-378e7208fed1.jpg)
+
+### black background
+
+```viml
+let g:borlandp_bg = "black"
+```
+
+![](https://user-images.githubusercontent.com/2071639/75165511-8edcb900-5733-11ea-9136-15f919582954.jpg)
+
+### Restoring the original blue
+
+Simply delete the `let g:borlandp_bg = ".."` line.
+The blue background can also be explicitely set:
+
+```viml
+let g:borlandp_bg = "borland_blue"
+```
+
 
 
 ## Source Files in Screenshots
@@ -75,11 +121,17 @@ https://github.com/AXDOOMER/mochadoom/blob/master/README.md
 The font used in the screenshots except DOS screenshot:
 
 ```
-set gfn=PxPlus_IBM_VGA9:h18:cANSI:qDRAFT
+set gfn=PxPlus_IBM_VGA8:h14:cANSI:qDRAFT
 ```
 
 It can be downloaded here:
 https://int10h.org/oldschool-pc-fonts/readme/
+
+Also, the screen has been configured as follows in Vim:
+
+```viml
+set columns=80 lines=25
+```
 
 
 # Installation
